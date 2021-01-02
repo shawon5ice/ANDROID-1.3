@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376802954815",
+    "project_id": "dead-c06c3",
+    "storage_bucket": "dead-c06c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376802954815:android:ef51d31813b2ccb164328a",
+        "android_client_info": {
+          "package_name": "com.droideve.apps.dealify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376802954815-08oah0p1tf4oh4imkgen1d2jr1o35oss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmoRSU3pMn9BzH24eb3N2RqiiIP5tax5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376802954815-08oah0p1tf4oh4imkgen1d2jr1o35oss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
